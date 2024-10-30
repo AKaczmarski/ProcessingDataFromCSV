@@ -1,0 +1,1 @@
+Make sure the CSV file is in the same folder as the Python file. When prompted, enter the name of the CSV file with the .csv extension (e.g., Money.csv), and then select the name of the column to analyze as it appears in the CSV file.
